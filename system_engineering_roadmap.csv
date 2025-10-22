@@ -1,0 +1,16 @@
+Bölüm,Başlık,Açıklama,Durum,Öncelik
+🎯 Objectives,Sistem hedeflerinin tanımlanması,Sistem mühendisliği vizyonu ve hedeflerin belirlenmesi,To Do,High
+🎯 Objectives,Gereksinim toplama,"Kullanıcı, müşteri ve iş hedeflerine göre gereksinimlerin çıkarılması",To Do,High
+🧩 Analysis & Design,Gereksinim analizi,Fonksiyonel ve fonksiyonel olmayan gereksinimlerin modellenmesi,In Progress,Medium
+🧩 Analysis & Design,Use Case tanımları,Sistem modüllerinin kullanım senaryoları oluşturulacak,To Do,High
+🧩 Analysis & Design,Sistem mimarisi tasarımı,"Donanım, yazılım, veri akışı, API tasarımı",To Do,High
+🧩 Analysis & Design,RTM oluşturma,Gereksinim–test izlenebilirlik matrisi hazırlanacak,To Do,Medium
+⚙️ Implementation,Modül geliştirme,Her modül için kodlama ve birim test süreci,To Do,High
+⚙️ Implementation,Continuous Integration,"CI/CD pipeline kurulumu (GitHub Actions, Terraform vb.)",To Do,Medium
+⚙️ Implementation,Kod inceleme,Kod kalitesinin ekip içi review ile denetlenmesi,To Do,Low
+🧪 Verification & Validation,Test senaryoları,Gereksinimlere uygun testlerin hazırlanması,To Do,High
+🧪 Verification & Validation,Performans testleri,"Yük, stres ve kapasite testleri yapılacak",To Do,Medium
+🧪 Verification & Validation,Güvenlik testleri,"Zafiyet analizi, penetration test, CodeQL taraması",To Do,Medium
+🚀 Deployment & Maintenance,Yayına alma,Sistem bileşenlerinin production ortamına geçişi,To Do,High
+🚀 Deployment & Maintenance,Gözlemleme,"Log, izleme, uyarı sistemlerinin konfigürasyonu",To Do,Medium
+🚀 Deployment & Maintenance,Sürekli bakım,Yeni gereksinim ve hata düzeltmeleri,To Do,Medium
